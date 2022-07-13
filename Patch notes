@@ -1,7 +1,10 @@
-Version 0.9.4.2 (Warning: Your computer requires a graphics card to play the game, if integrated graphics you may experience frame drops below 20FPS or lower)
+Version 0.9.5 (Warning: Your computer requires a graphics card to play the game, if integrated graphics you may experience frame drops below 20FPS or lower)
 (The game is under maintenance and only beta testers can play the game...) (Public release expected: September 2023)
-Added bushes throughout the map
-Added trees
-Turrain is being fixed
-Landmark 1 (amogus_landmark) is bein updated
-Building is recieving an update (Less memory)
+Removed landmarks
+Removed Teleport system
+Moved Secret base entrance
+Made storm changes
+Removed 2nd crash pad spawner
+Removed button
+Removed sign
+Added cars back
